@@ -1,2 +1,2 @@
 # dio-java
-Repositorio para armazenar todo o conteudo do codigo.
+Repositorio para armazenar todo o conteudo do curso.
